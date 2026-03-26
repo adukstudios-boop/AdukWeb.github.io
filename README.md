@@ -5,7 +5,7 @@ This demo runs entirely in your browser; no backend or installation needed.
 
 ## ✨ Features
 
-- **25+ playable games** – Slot Machine, Crash, Dice, Roulette, Keno, Scratch Card, Wheel of Fortune, Blackjack, Poker, Baccarat, Teen Patti, Video Poker, War, Solitaire, Tic‑Tac‑Toe, Chess, Checkers, Connect Four, Backgammon, Memory Match, 2D Soccer, Horse Racing, Progressive Jackpot, Lottery, Rush Hour (simplified).
+- **75 playable games** – Slot Machine, Crash, Dice, Roulette, Keno, Scratch Card, Wheel of Fortune, Blackjack, Poker, Baccarat, Teen Patti, Video Poker, War, Solitaire, Tic‑Tac‑Toe, Chess, Checkers, Connect Four, Backgammon, Memory Match, 2D Soccer, Horse Racing, Progressive Jackpot, Lottery, Rush Hour (simplified).
 - **Game list with search & category filter** – quickly find games by name or type (slots, card, skill, arcade, lottery).
 - **Global balance** – shared across all games, updates in real time.
 - **Dashboard** – wallet, game stats, recent transactions.
