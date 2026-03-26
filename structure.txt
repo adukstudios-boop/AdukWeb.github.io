@@ -1,0 +1,34 @@
+aduk-demo/
+├── index.html
+├── style.css
+├── main.js
+├── sw.js
+├── games/
+│ ├── BaseGame.js
+│ ├── SlotGame.js
+│ ├── CrashGame.js
+│ ├── DiceGame.js
+│ ├── RouletteGame.js
+│ ├── KenoGame.js
+│ ├── ScratchGame.js
+│ ├── WheelGame.js
+│ ├── BlackjackGame.js
+│ ├── PokerGame.js
+│ ├── BaccaratGame.js
+│ ├── TeenPattiGame.js
+│ ├── VideoPokerGame.js
+│ ├── WarGame.js
+│ ├── SolitaireGame.js
+│ ├── TicTacToeGame.js
+│ ├── Connect4Game.js
+│ ├── ChessGame.js
+│ ├── CheckersGame.js
+│ ├── BackgammonGame.js
+│ ├── MemoryGame.js
+│ ├── SoccerGame.js
+│ ├── HorseRacingGame.js
+│ ├── JackpotGame.js
+│ ├── LotteryGame.js
+│ └── RushHourGame.js
+└── assets/
+└── images/
